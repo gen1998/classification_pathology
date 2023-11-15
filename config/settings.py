@@ -1,0 +1,1 @@
+BASE_TRAIN_IMAGE_PATH = '/home/takagi/data/hcc_data_64div/'
