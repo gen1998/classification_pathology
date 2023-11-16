@@ -24,6 +24,11 @@ conda activate environment
    If you are interested, check Stratified k-Fold Cross-Validation or patient stratification cross-validation)
    ```
 
+## Train and infer
+```
+conda activate environment.py
+python run.py
+```
 
 
 # TODO
