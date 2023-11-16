@@ -2,7 +2,7 @@
     "seed": 6,
     "debug": 0,
     "device": "cuda:0",
-    "folder_name": "result_231102_split",
+    "folder_name": "",
     "model_arch": "tf_efficientnet_b3",
     "model_shape": "eff",
     "pretrained": 1,
