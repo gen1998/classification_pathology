@@ -59,12 +59,7 @@ patience : epochs to wait not to imporve [default: 2]
 mode : which direction of improvement ("val_loss":"min" / "val_accuracy":"max") [default: "max"]
 ```
 
-
-
-
-
-
-### Train and infer
+## Train and infer
 ```
 conda activate environment.py
 python run.py
